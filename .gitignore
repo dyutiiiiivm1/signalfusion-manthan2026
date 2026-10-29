@@ -1,0 +1,10 @@
+config.py
+   *.csv
+   bot_log.txt
+   status.json
+   status.json.tmp
+   check_output.txt
+   portfolio_raw.json
+   __pycache__/
+   *.pyc
+   *.zip
